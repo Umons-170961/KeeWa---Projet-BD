@@ -1,0 +1,19 @@
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\bin\x86\Debug\KeeWa 2.0.exe.config
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\bin\x86\Debug\KeeWa 2.0.exe
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\bin\x86\Debug\KeeWa 2.0.pdb
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\bin\x86\Debug\KeeWa 2.0.xml
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa 2.0.vbprojAssemblyReference.cache
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa_2._0.Main.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa_2._0.Resources.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa 2.0.vbproj.GenerateResource.cache
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa 2.0.vbproj.CoreCompileInputs.cache
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa 2.0.exe
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa 2.0.xml
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa 2.0.pdb
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa_2._0.GarantyWindow.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa_2._0.inutilr.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa_2._0.PersonWindow.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa_2._0.StoreWindow.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa_2._0.TagWindow.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa_2._0.TypeWindow.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa_2._0.CompanyWindow.resources
