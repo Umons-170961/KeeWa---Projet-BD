@@ -1,0 +1,108 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KeeWa
+</name>
+</assembly>
+<members>
+<member name="T:KeeWa.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:KeeWa.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:KeeWa.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:KeeWa.DataBaseDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="M:KeeWa.DepartementWindow.PersonWindow_Load(System.Object,System.EventArgs)">
+ <summary>
+ This function opens itself at launch of this window and calls the loading function
+ </summary>
+</member>
+<member name="M:KeeWa.DepartementWindow.BT_Supp_Click(System.Object,System.EventArgs)">
+ <summary>
+ This function deletes the element with the selected name in CB_Modif
+ </summary>
+</member>
+<member name="M:KeeWa.DepartementWindow.BT_Sauv_Click(System.Object,System.EventArgs)">
+ <summary>
+ It is openened when the user click on the Save button
+ This function acts in 2 ways  :
+ If CB_Modif is disactevated (were creating a new Department) it will create a new department and link the contact to it
+ IF CB_Modif is activated (were modifieng a Department) it will apdaute the department that is selected in CB_Modif and delete and recreate the link with the contact
+ </summary>
+</member>
+<member name="M:KeeWa.DepartementWindow.CB_Modif_SelectedIndexChanged(System.Object,System.EventArgs)">
+ <summary>
+ This function is called when the user change the selection of CB_Modif. It will fill the empty cases with the infos about the department
+ </summary>
+</member>
+<member name="M:KeeWa.DepartementWindow.loading">
+ <summary>
+ this function is there to initialise everything in function of if we are modifieng or creating a new element
+ </summary>
+</member>
+<member name="M:KeeWa.GarantyImage.BT_AjoutImage_Click(System.Object,System.EventArgs)">
+ <summary>
+ Open window to choose the file to copy
+ </summary>
+</member>
+<member name="M:KeeWa.GarantyImage.OFP_Image_FileOk(System.Object,System.ComponentModel.CancelEventArgs)">
+ <summary>
+ Oncy you clicked on OK it copies the file to the new loaction and rename it.
+ </summary>
+</member>
+<member name="M:KeeWa.Main.Remplissage(System.String,System.String,System.Object)">
+ <summary>
+ This function fills a ComboList or RichTextBox with element from a database
+ </summary>
+ <param name="strSql">Command used to get the element</param>
+ <param name="Type">Name of the element we want use to fill (has to be the same name as in the SQL command)</param>
+ <param name="Where">Object (RichTextBox or Combobox) where we want tu place our infos</param>
+</member>
+<member name="M:KeeWa.Main.loading">
+ <summary>
+ This function loads the page by adding the TOP10 and filling the first element
+ </summary>
+</member>
+<member name="M:KeeWa.PersonWindow.PersonWindow_Load(System.Object,System.EventArgs)">
+ <summary>
+ This function launches itself at opening the opening of the PersonWindow. It loades the boxes
+ </summary>
+</member>
+<member name="M:KeeWa.PersonWindow.BT_Supp_Click(System.Object,System.EventArgs)">
+ <summary>
+ It suppress an element that is choosen
+ </summary>
+</member>
+<member name="M:KeeWa.PersonWindow.BT_Sauv_Click(System.Object,System.EventArgs)">
+ <summary>
+ If it is a new element it insert it in the database otherwise it will make an update
+ </summary>
+</member>
+<member name="M:KeeWa.PersonWindow.CB_Modif_SelectedIndexChanged(System.Object,System.EventArgs)">
+ <summary>
+ If the text in the CB_Modif correspond to an element in the DB it will fill the infos of the page with it
+ </summary>
+</member>
+<member name="M:KeeWa.PersonWindow.loading">
+ <summary>
+ This function empties the boxes, refresh the CB_list (list of Person) and disables the 2 buttons if necessary
+ otherwise it enables the two buttons (Suppression and save)
+ </summary>
+</member>
+</members>
+</doc>

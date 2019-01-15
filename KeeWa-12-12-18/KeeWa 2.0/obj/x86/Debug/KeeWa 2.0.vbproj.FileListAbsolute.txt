@@ -1,0 +1,26 @@
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa 2.0.vbprojAssemblyReference.cache
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa 2.0.vbproj.GenerateResource.cache
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa 2.0.vbproj.CoreCompileInputs.cache
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa.CompanyWindow.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa.DepartementWindow.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa.GarantyWindow.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa.Main.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa.Resources.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa.PersonWindow.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa.StoreWindow.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa.TagWindow.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa.TypeWindow.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\bin\x86\Debug\KeeWa.exe.config
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\bin\x86\Debug\KeeWa.exe.manifest
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\bin\x86\Debug\KeeWa.application
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\bin\x86\Debug\KeeWa.exe
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\bin\x86\Debug\KeeWa.pdb
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\bin\x86\Debug\KeeWa.xml
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa.exe.manifest
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa.application
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa.exe
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa.xml
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa.pdb
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa.GarantyImage.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa.PassWordWindow.resources
+C:\Users\Nathan K\source\repos\KeeWa-Projet-BD\KeeWa 2.0\obj\x86\Debug\KeeWa.Paramètres.resources
